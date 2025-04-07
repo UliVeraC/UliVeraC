@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Frontend & Mobile -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,flutter,tailwind,androidstudio,kotlin" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,laravel,flutter,tailwind,androidstudio,kotlin" /><br/>
     <!-- Backend & Bases de datos -->
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,cpp,cs,dotnet,mysql,postgres,mongodb,firebase" /><br/>
+    <img src="https://skillicons.dev/icons?i=php,java,py,cpp,cs,dotnet,mysql,postgres,mongodb,firebase" /><br/>
     <!-- Herramientas -->
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,eclipse,postman" />
   </a>
